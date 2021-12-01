@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnawinZ
 - 👀 I’m interested in Application Developer
 - 🌱 I’m currently learning Application  
-- 💞️ I’m looking to collaborate on Discrod
+- 💞️ I’m looking to collaborate on Discord
 - 📫 How to reach me E-mail Anawin111909@hotmail.com
 
 <!---
